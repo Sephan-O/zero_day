@@ -1,1 +1,1 @@
-Day zero project is so on
+A read me file added to the vagrant directory
